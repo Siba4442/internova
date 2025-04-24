@@ -1,1 +1,1 @@
-# internova
+# streamlit_mini_project
